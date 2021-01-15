@@ -5,7 +5,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sarthak mittal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sarthak mittal" height="30" width="40" /></a>
-<a href="https://medium.com/@sarthakmittal1461" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@sarthakmittal1461" height="30" width="40" /></a>
+
 </p>
 
 ## Badges
@@ -28,20 +28,20 @@
 <code><img height="20" src="https://mpng.subpng.com/20180604/xox/kisspng-web-development-express-js-javascript-software-fra-frame-work-5b15153ce5bb85.615845371528108348941.jpg"></code> 
 <br>
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/mostlypanda"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mostlypanda" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/hkaur008"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mostlypanda" /></a></p><br><br>
 <br>
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github
 <br>
 <p>
 <img align="left" src='https://github-readme-stats.vercel.app/api?username=mostlypanda&show_icons=true&theme=radical&count_private=true'/>
 </p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostlypanda&count_private=true&theme=radical" alt="mostlypanda" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hkaur008&count_private=true&theme=radical" alt="mostlypanda" />
 <div style="flex: 33.33%; padding: 5px;"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mostlypanda&count_private=true&theme=radical" alt="mostlypanda" /></div>
 </div>
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mostlypanda&layout=compact&theme=radical&count_private=true" />
 
 
 
-![GitHub metrics](https://metrics.lecoq.io/mostlypanda)  
+![GitHub metrics](https://metrics.lecoq.io/hkaur008)  
 
 
