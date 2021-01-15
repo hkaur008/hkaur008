@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sarthak Mittal</h1>
+<h1 align="center">Hi 👋, I'm Hargun Kaur</h1>
 <h3 align="center">Enthusiastic full stack MERN developer from India.</h3>
 
 
