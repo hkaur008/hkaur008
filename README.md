@@ -33,12 +33,12 @@
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github
 <br>
 <p>
-<img align="left" src='https://github-readme-stats.vercel.app/api?username=mostlypanda&show_icons=true&theme=radical&count_private=true'/>
+<img align="left" src='https://github-readme-stats.vercel.app/api?username=hkaur008&show_icons=true&theme=radical&count_private=true'/>
 </p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hkaur008&count_private=true&theme=radical" alt="mostlypanda" />
-<div style="flex: 33.33%; padding: 5px;"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mostlypanda&count_private=true&theme=radical" alt="mostlypanda" /></div>
+<div style="flex: 33.33%; padding: 5px;"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=hkaur008&count_private=true&theme=radical" alt="mostlypanda" /></div>
 </div>
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mostlypanda&layout=compact&theme=radical&count_private=true" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hkaur008&layout=compact&theme=radical&count_private=true" />
 
 
 
