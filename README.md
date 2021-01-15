@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hargun Kaur</h1>
-<h3 align="center">Enthusiastic geek girl developer</h3>
+<h3 align="center">Just a codderrrrrr... </h3>
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sarthak mittal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sarthak mittal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hargun-k-0b7815194/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sarthak mittal" height="30" width="30" style="{color:white;}" /></a>
 
 </p>
 
