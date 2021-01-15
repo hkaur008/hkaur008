@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hargun Kaur</h1>
-<h3 align="center">Enthusiastic full stack MERN developer from India.</h3>
+<h3 align="center">Enthusiastic geek girl developer</h3>
 
 
 <h3 align="left">Connect with me:</h3>
