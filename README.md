@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hargun Kaur</h1>
 <h3 align="center">Just a codderrrrrr... </h3>
 
+![Harguns's github activity graph](https://activity-graph.herokuapp.com/graph?username=hkaur008&theme=dracula)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -45,6 +46,5 @@
 
 
 ![GitHub metrics](https://metrics.lecoq.io/hkaur008)  
-![Harguns's github activity graph](https://activity-graph.herokuapp.com/graph?username=hkaur008&theme=dracula)
 
 
