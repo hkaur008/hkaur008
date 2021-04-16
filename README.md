@@ -27,7 +27,6 @@
 <code><img height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png"></code>
 <code><img height="20" src="https://mpng.subpng.com/20180604/xox/kisspng-web-development-express-js-javascript-software-fra-frame-work-5b15153ce5bb85.615845371528108348941.jpg"></code> 
 <br>
-![Harguns's github activity graph](https://activity-graph.herokuapp.com/graph?username=hkaur008&theme=dracula)
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/hkaur008"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mostlypanda" /></a></p><br><br>
@@ -46,5 +45,6 @@
 
 
 ![GitHub metrics](https://metrics.lecoq.io/hkaur008)  
+![Harguns's github activity graph](https://activity-graph.herokuapp.com/graph?username=hkaur008&theme=dracula)
 
 
