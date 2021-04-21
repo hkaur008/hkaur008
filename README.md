@@ -31,9 +31,7 @@
 
 <img align="left" src='https://github-readme-stats.vercel.app/api?username=hkaur008&show_icons=true&theme=radical&count_private=true'/>
 </p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hkaur008&count_private=true&theme=radical" alt="mostlypanda" />
-
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hkaur008&layout=compact&theme=radical&count_private=true" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hkaur008&count_private=true&theme=radical" alt="mostlypanda" /><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hkaur008&layout=compact&theme=radical&count_private=true" />
 
 
 
