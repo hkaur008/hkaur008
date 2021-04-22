@@ -38,8 +38,8 @@
 <div class="footer" id="top3">
   <center> Contact me:<br>
   <a href="https://www.youtube.com/channel/UCD560H3NANAhBqTM5s-BwzA" class="pics"><img src="root/youtube (1).png" height="40vh">
-  <a href="https://www.linkedin.com/in/hargun-k-0b7815194"class="pics"><img src="linkedin.png" height="40vh"></a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=hargunalone@gmail.com" class="pics"><img src="gmail.png" height="40vh">
+  <a href="https://www.linkedin.com/in/hargun-k-0b7815194"class="pics"><img src="root/linkedin.png" height="40vh"></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=hargunalone@gmail.com" class="pics"><img src="root/gmail.png" height="40vh">
     <a href="https://github.com/hkaur008" class="pics">
-    <img src="github-logo.png" height="40vh"></center>
+    <img src="root /github-logo.png" height="40vh"></center>
   </div>
