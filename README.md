@@ -32,9 +32,7 @@
 <code><img height="20" src="https://mpng.subpng.com/20180604/xox/kisspng-web-development-express-js-javascript-software-fra-frame-work-5b15153ce5bb85.615845371528108348941.jpg"></code> 
 <br>
 <hr/>
-<img align="left" src='https://github-readme-stats.vercel.app/api?username=hkaur008&show_icons=true&theme=radical&count_private=true'/>
-</p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hkaur008&count_private=true&theme=radical" alt="hkaur008" />
+<img  src='https://github-readme-stats.vercel.app/api?username=hkaur008&show_icons=true&theme=radical&count_private=true'><img  src="https://github-readme-streak-stats.herokuapp.com/?user=hkaur008&count_private=true&theme=radical" alt="hkaur008" >
 
 
 
