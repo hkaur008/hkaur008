@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hargun Kaur</h1>
 <h3 align="center">Just a codderrrrrr... </h3>
 
-<a href="https://skyline.github.com/hkaur008/2021">![Hnet com-image (1)](https://user-images.githubusercontent.com/56452820/132248331-835acc45-005b-410f-b7c6-cb0566c2760b.gif)</a>
+<a href="https://skyline.github.com/hkaur008/2021"></a>
+![Uploading screen-capture (5).gif…]()
 
 
 ![Harguns's github activity graph](https://activity-graph.herokuapp.com/graph?username=hkaur008&theme=dracula)
