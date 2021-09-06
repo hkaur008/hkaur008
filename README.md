@@ -5,7 +5,7 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hkaur008&show_icons=true&theme=jolly" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hkaur008&theme=jolly" />
 </p>
-<p align="center">
+
   <table align="center">
  <th> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"/> Connect with me  :</th>
   <td>
@@ -15,6 +15,6 @@
     <a href="https://t.me/codefloworg" class="pics">
     <img src="https://user-images.githubusercontent.com/56452820/132254883-582e7361-9f34-49c2-aaca-3927e9978e16.png" height="47vh"></td>
     </table>
-</p>
+
 
 
