@@ -5,7 +5,7 @@
 <img src="https://github.com/hkaur008/hkaur008/blob/main/root/screen-capture%20(5).gif"/></a>
 
 
-![Harguns's github activity graph](https://activity-graph.herokuapp.com/graph?username=hkaur008&theme=dracula)
+![Harguns's github activity graph](https://activity-graph.herokuapp.com/graph?username=hkaur008)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
