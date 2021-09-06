@@ -2,12 +2,27 @@
 <h3 align="center">Just a codderrrrrr... </h3>
 
 <img src="https://github.com/hkaur008/hkaur008/blob/main/root/screen-capture%20(5) (1).gif"/>
+<table>
+  <tr>
+    <th><img src="https://activity-graph.herokuapp.com/graph?username=hkaur008&theme=react-dark" /></th>
+    <th> AWS Community Builder
 
+Organiser at Azure Developer Community Chandigarh
 
-![Harguns's github activity graph](https://activity-graph.herokuapp.com/graph?username=hkaur008)
+🏆 Participated in over 60+ hackathons , Mentored several winning teams
+
+🗣️ 50+ Technical Talk shows, Podcast, Meetups, Conferences - AWS User Group,
+       TensorFlow User Group, Google Developer Group, Microsoft Reactor,   
+      Women in Data Science, Microsoft Azure User Group, KonfHub Conferences, Techmakers, School  
+      of AI 📝 I regularly write articles on Medium and Dev  
+
+⚡ In my free time, I love to play Chess ♔, listen to songs 🤘🏼,  
+      play 🏏,🏀,🏊‍♂️, learn new languages (French, German)</th>
+  </tr>
+</table>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <div class="footer" id="top3">
   <center> 
   <a href="https://www.youtube.com/channel/UCD560H3NANAhBqTM5s-BwzA" class="pics"><img src="root/youtube (1).png" height="30vh">
@@ -32,8 +47,7 @@
 <code><img height="20" src="https://cdn.iconscout.com/icon/free/png-256/heroku-225989.png"></code>
 <code><img height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png"></code>
 <code><img height="20" src="https://mpng.subpng.com/20180604/xox/kisspng-web-development-express-js-javascript-software-fra-frame-work-5b15153ce5bb85.615845371528108348941.jpg"></code> 
-<br>
-<hr/>
+
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hkaur008&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hkaur008&theme=tokyonight" />
