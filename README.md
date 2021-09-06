@@ -29,8 +29,8 @@
 <code><img height="20" src="https://mpng.subpng.com/20180604/xox/kisspng-web-development-express-js-javascript-software-fra-frame-work-5b15153ce5bb85.615845371528108348941.jpg"></code> 
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hkaur008&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hkaur008&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hkaur008&show_icons=true&theme=jolly" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hkaur008&theme=jolly" />
 </p>
 
 
