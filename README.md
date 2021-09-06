@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Hargun Kaur</h1>
-<h3 align="center">Just a codderrrrrr... </h3>
-
 <img src="https://github.com/hkaur008/hkaur008/blob/main/root/screen-capture%20(5) (1).gif"/>
 <table>
   <tr>
