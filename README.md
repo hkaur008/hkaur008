@@ -27,5 +27,4 @@
     <img src="https://user-images.githubusercontent.com/56452820/132254883-582e7361-9f34-49c2-aaca-3927e9978e16.png" height="47vh"></a></td>
     </table>
 
-![images]()
 
