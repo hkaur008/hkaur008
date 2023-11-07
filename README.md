@@ -2,7 +2,7 @@
 
 <table align="center">
 <td>  
-📝 I am a third year undergrad at National Institute of Technology, Kurukshetra pursuing Computer Engineering <br>
+📝 I am a CS undergrad at National Institute of Technology, Kurukshetra pursuing Computer Engineering <br>
 🤞  I have been <strong>MLH Fellowship holder </strong> for Pre-Fellowship Summer'21 and  <strong>Software Engineering </strong> Track Fall'21 (2x). <br>
 ✨ I have selected as Microsoft Engage Mentee'21 for different mentorship by Microsoft team. <br>
 🏆 <strong>vGHC Scholar (Virtual Grace Hopper Celebration Scholarship) </strong>  by AnitaB.org, sponsored by Microsoft Student Advocacy Team due to good academic performance. <br>
